@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    {"source": "/zeoguessr/", "destination": "zeoguessr.vercel.app"},
-    {"source": "/save-the-date", "destination": "wedding-site-indol.vercel.app"}
+    {"source": "/zeoguessr", "destination": "https://zeoguessr.vercel.app/"},
+    {"source": "/save-the-date", "destination": "https://wedding-site-indol.vercel.app/"}
   ]
 }
